@@ -1,0 +1,2 @@
+Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
+Python is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain.Domain Domain 
